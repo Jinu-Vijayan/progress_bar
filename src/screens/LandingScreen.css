@@ -4,3 +4,12 @@
     align-items: center;
     gap: 1rem;
 }
+
+.start-btn{
+    padding: 0.3rem 1rem;
+    background-color: #0000ff;
+    color: #ffffff;
+    border: none;
+    border-radius: 0.625rem;
+    cursor: pointer;
+}
